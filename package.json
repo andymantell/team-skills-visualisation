@@ -17,7 +17,7 @@
     "url": "https://github.com/andymantell/team-skills-visualisation/issues"
   },
   "homepage": "https://github.com/andymantell/team-skills-visualisation#readme",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.13.4"
   }
 }
