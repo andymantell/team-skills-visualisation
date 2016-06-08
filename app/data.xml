@@ -1,4 +1,6 @@
 <?xml-stylesheet type="text/xsl" href="visualisation.xsl"?>
-<foo>
-  <bar>Rawr</bar>
-</foo>
+<skills>
+  <skill>HTML</skill>
+  <skill>CSS</skill>
+  <skill>JavaScript</skill>
+</skills>
