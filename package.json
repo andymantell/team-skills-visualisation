@@ -1,0 +1,23 @@
+{
+  "name": "team-skills-visualisation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "supervisor -i node_modules -e js index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymantell/team-skills-visualisation.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andymantell/team-skills-visualisation/issues"
+  },
+  "homepage": "https://github.com/andymantell/team-skills-visualisation#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
